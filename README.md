@@ -1,1 +1,3 @@
 # GalinherOmatic
+
+Estudo sobre automação
